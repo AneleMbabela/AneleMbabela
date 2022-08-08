@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-a76.pages.dev/](https://new-portfolio-a76.pages.dev/)
 
-- 💬 Ask me about **python, react, javascript, css3 and html5t**
+- 💬 Ask me about **python, react, javascript, css3 and html5**
 
 - 📫 How to reach me **anelembabela@gmail.com**
 
