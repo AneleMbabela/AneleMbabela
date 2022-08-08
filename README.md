@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![AneleMbabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=anelembabela&show_icons=true)
 
-[![AneleMbabela's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anelembabela)](https://github.com/anuraghazra/github-readme-stats)
+[![AneleMbabela's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anelembabela)](https://github.com/anelembabela/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela)](https://github.com/anelembabela/github-readme-stats)
 
