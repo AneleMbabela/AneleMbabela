@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AneleMbabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=anelembabela&show_icons=true&theme=default)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anelembabela&theme=default)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela&langs_count=8&theme=default)](https://github.com/anelembabela/github-readme-stats)
+anelembabela/github-readme-stats
 
 
