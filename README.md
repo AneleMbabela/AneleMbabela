@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![AneleMbabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=anelembabela&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anelembabela)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela&langs_count=8&theme=radical)](https://github.com/anelembabela/github-readme-stats)
 
 
