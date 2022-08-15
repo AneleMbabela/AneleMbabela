@@ -31,7 +31,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anelembabela&theme=vue)](https://git.io/streak-stats&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela&langs_count=8)](https://github.com/anelembabela/github-readme-stats)
 
 
 
