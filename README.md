@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela&theme=vue)](https://github.com/anelembabela/github-readme-stats&theme=vue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anelembabela_count=8)](https://github.com/anelembabela/github-readme-stats)
+
 
 
 
