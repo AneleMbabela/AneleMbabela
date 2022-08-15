@@ -31,12 +31,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anelembabela&theme=vue)](https://git.io/streak-stats&theme=vue)
 
-<a href="https://github.com/anelembabela/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anelembabela&repo=github-readme-stats&theme=vue" />
-</a>
-<a href="https://github.com/anelembabela/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anelembabela&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=vue)
+
 
 
 
