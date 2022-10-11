@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Intergration**
 
-- 👨‍💻 All of my projects are available at [https://reactjs-portforlio-01-jwd4a39x8-anelembabela.vercel.app/](https://reactjs-portforlio-01-jwd4a39x8-anelembabela.vercel.app/)
+- 👨‍💻 All of my projects are available at reactjs-portforlio-01.vercel.app/](reactjs-portforlio-01.vercel.app/)
 
 - 💬 Ask me about **python, react, javascript, css3 and html5**
 
