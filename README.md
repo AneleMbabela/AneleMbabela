@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate frontend developer from South Africa Johannesburg</h3>
+<h3 align="center">A passionate Software developer from South Africa Johannesburg</h3>
 
 ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/8805744/183447964-0216585b-499c-4bbf-a565-b04339b4b53c.gif)
 
