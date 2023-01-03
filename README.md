@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **anelembabela@gmail.com**
 
+- 📫 How to reach on LinkedIn **[https://www.linkedin.com/in/michael-mbabela/](https://www.linkedin.com/in/michael-mbabela/)**
+
 - 📄 Know about my experiences [https://anelembabela.github.io/resume/](https://anelembabela.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
