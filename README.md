@@ -4,7 +4,7 @@
 ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/8805744/183447964-0216585b-499c-4bbf-a565-b04339b4b53c.gif)
 
 
-- 🔭 I’m currently working on **OCR Video Player Project**
+- 🔭 I’m currently working on a **OCR Video Player Project**
 
 - 🌱 I’m currently learning **angular and vue**
 
